@@ -47,10 +47,6 @@ input {
   border-radius: 3px;
 }
 
-input:hover{
-  background-color: rgba(255, 0, 0, 0.8);
-}
-
 input:focus {
   outline: 1px solid var(--primary-color);
 }
